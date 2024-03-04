@@ -26,7 +26,7 @@ ___
 
 Я могу выделить текст как код
 
-''' bash
+'''
 cd ~
 touch readme.md
 git add
