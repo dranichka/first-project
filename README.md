@@ -26,13 +26,13 @@ ___
 
 Я могу выделить текст как код
 
-'''
+``` bash
 cd ~
 touch readme.md
 git add
 git commit
 git push origin master
-'''
+```
 
 Ну вот как-то так. Надеюсь, нигде не накосячила.
 
